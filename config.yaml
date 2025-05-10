@@ -1,0 +1,7 @@
+accounts:
+  - name: personal
+    email: personal@email.com # Your personal email
+    hostname: github.com
+  - name: work
+    email: work@email.com # Your work email
+    hostname: github.com 
