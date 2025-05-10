@@ -13,7 +13,7 @@ This Python tool helps you manage multiple GitHub accounts by automatically gene
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/auto-ssh-config.git
+git clone https://github.com/Gus-Fuentes/ssh_config_generator.git
 cd auto-ssh-config
 ```
 
